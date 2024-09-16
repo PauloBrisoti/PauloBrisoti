@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Paulo Brisoti
 
 - 🔭 Hoje trabalho como Ticket Manager
-- 🌱 Estudando desenvolvimento web Full Stack
+- 🌱 Estudando Analise e Desenvolvimento de Sistemas e Desenvolvimento web.
 - 📫 Contate-me no email:  paulorboza@gmail.com
 
 

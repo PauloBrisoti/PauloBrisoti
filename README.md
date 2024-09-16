@@ -1,11 +1,11 @@
-### Olá! Eu sou o Paulo Brisoti
+### Olá! Eu sou o Paulo Barbosa
 
 - 🔭 Hoje trabalho como Ticket Manager
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas e Desenvolvimento web.
 - 📫 Contate-me no email:  paulorboza@gmail.com
 
 
-## Oiii! Eu sou o Paulo Brisoti 
+## Oiii! Eu sou o Paulo Barbosa 
  <div>
   <a href="https://github.com/paulobrisoti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulobrisoti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

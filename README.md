@@ -1,8 +1,8 @@
 # Olá, eu sou o Paulo Barbosa 🚀
 
-### Senior Incident Management Analyst | SRE & Automation | ADS Student
+### Analista Sênior de Gestão de Incidentes & SRE | Software Engineer (Node.js, TypeScript, PHP, Python) | ADS
 
-Atuo há mais de 10 anos em ambientes de missão crítica e core bancário, orquestrando War Rooms e garantindo a resiliência de serviços transacionais de alta disponibilidade. Atualmente, foco em unir a gestão de crises com a automação de sistemas para redução de MTTR e otimização de processos ITSM/ITIL.
+Atuo há mais de 10 anos em ambientes de missão crítica e core transacional, liderando War Rooms de alta complexidade e garantindo a resiliência e disponibilidade de serviços corporativos. Uno a vivência em gestão de incidentes críticos (ITSM/ITIL, SRE) ao desenvolvimento de software full stack e backend escalável (Node.js, PHP, PostgreSQL), automatizando fluxos, reduzindo MTTR e construindo aplicações orientadas a consistência de dados e alto desempenho.
 
 ---
 
@@ -15,7 +15,7 @@ Atuo há mais de 10 anos em ambientes de missão crítica e core bancário, orqu
 ---
 
 ### 📂 Projetos em Destaque
-- **Lance Pelo Zap:** Automação SaaS integrada com IA para fluxos transacionais.
+- **Lance Pelo Zap:** Plataforma SaaS multiloja para controle financeiro (DRE, conciliação e CMV) e gestão operacional.
 - **Curicas Pet:** Gestão de plataforma multi-página com arquitetura de processos.
 - **Laboratório SRE:** Scripts de automação e dashboards de monitoramento.
 
